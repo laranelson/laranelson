@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu Nelson Lara</h1>
+<h1 align="center">Oi 👋, Eu sou Nelson Lara</h1>
 <h3 align="center">Sou formado em Sistemas de Informação com pós-graduação em engenharia de petróleo e gás natural, atualmente estou estudando ciência de dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laranelson&label=Profile%20views&color=0e75b6&style=flat" alt="laranelson" /> </p>
